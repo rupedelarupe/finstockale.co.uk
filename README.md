@@ -2,7 +2,9 @@
 
 # Changes
 ## 06/08/2023
-- Started dev branch
+- Started dev branch.
 
 ## 08/08/2023
 - Created soft launch/no programme site and pushed to live.
+- Amended padding on dev.
+- Amended tagline on dev and live.
