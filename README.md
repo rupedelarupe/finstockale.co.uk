@@ -11,3 +11,7 @@
 
 ## 10/08/2023
 - Tried numbers counter in dev
+
+## 12/08/2023
+- Added all beers, ciders, and in dev
+- Updated counters in dev
