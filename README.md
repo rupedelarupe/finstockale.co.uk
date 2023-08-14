@@ -15,3 +15,9 @@
 ## 12/08/2023
 - Added all beers, ciders, and in dev
 - Updated counters in dev
+
+## 13/08/2023
+- Updated About
+- Added Sponsorship
+- Removed counters
+- Fixed image formatting
