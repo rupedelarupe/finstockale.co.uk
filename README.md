@@ -21,3 +21,4 @@
 - Added Sponsorship
 - Removed counters
 - Fixed image formatting
+- Replaced can images where possible
