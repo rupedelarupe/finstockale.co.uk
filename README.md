@@ -23,3 +23,6 @@
 - Fixed image formatting
 - Replaced can images where possible
 - Added food and cider descriptions
+
+## 14/08/2023
+- Added Nuak menu
