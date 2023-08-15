@@ -26,3 +26,4 @@
 
 ## 14/08/2023
 - Added Nuak menu
+- Updated beer bios and images, creating separation between cask and keg beers
