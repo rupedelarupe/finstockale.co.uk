@@ -16,7 +16,7 @@
 - Added all beers, ciders, and in dev
 - Updated counters in dev
 
-## 13/08/2023
+## 14/08/2023
 - Updated About
 - Added Sponsorship
 - Removed counters
@@ -24,6 +24,9 @@
 - Replaced can images where possible
 - Added food and cider descriptions
 
-## 14/08/2023
+## 15/08/2023
 - Added Nuak menu
 - Updated beer bios and images, creating separation between cask and keg beers
+
+## 16/08/2023
+- Removed images credits
