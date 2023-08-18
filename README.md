@@ -30,3 +30,6 @@
 
 ## 16/08/2023
 - Removed images credits
+
+## 18/08/2023
+- Added newer/better quality Razzle Dazzle 2 image
