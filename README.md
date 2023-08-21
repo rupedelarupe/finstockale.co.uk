@@ -33,3 +33,6 @@
 
 ## 18/08/2023
 - Added newer/better quality Razzle Dazzle 2 image
+
+## 21/08/2023
+- Updated number of gins
