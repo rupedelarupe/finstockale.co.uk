@@ -37,3 +37,6 @@
 ## 21/08/2023
 - Updated number of gins
 - Updated Moor Revival logo to lower ABV
+
+## 22/08/2023
+- Updated "Grazy" Goat typo
