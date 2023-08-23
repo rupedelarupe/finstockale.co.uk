@@ -40,3 +40,6 @@
 
 ## 22/08/2023
 - Updated "Grazy" Goat typo
+
+## 23/08/2023
+- Updated NCB Hung Drawn 'n' Portered badge image
