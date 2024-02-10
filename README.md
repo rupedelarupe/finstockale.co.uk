@@ -4,6 +4,9 @@
 
 # 2024
 
+## 10 February 2023
+- First draft of winter branch and made live.
+
 ## 28/01/2023
 - Created winter branch.
 
