@@ -1,6 +1,14 @@
 # finstockale.co.uk
 
 # Changes
+
+# 2024
+
+## 11 February 2024
+- Amended for "holding" site until later in the year/after winter ale.
+
+# 2023
+
 ## 06/08/2023
 - Started dev branch.
 
