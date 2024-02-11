@@ -51,3 +51,6 @@
 
 ## 23/08/2023
 - Updated NCB Hung Drawn 'n' Portered badge image
+
+## 27/08/2023
+- Changed "Saville" oranges to "Seville" oranges in The General cider description
