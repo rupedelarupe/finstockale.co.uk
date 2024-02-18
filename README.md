@@ -4,6 +4,9 @@
 
 # 2024
 
+## 18 February 2024
+- First attempt at sponsors.
+
 ## 16 February 2024
 - Swapped Cloudwater brewery and beer.
 
