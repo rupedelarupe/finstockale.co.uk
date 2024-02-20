@@ -6,6 +6,7 @@
 
 ## 20 February 2024
 - Adding ciders
+- Adjusted layout for new keg beers.
 
 ## 18 February 2024
 - First attempt at sponsors.
