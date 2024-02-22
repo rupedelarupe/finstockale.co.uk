@@ -4,6 +4,9 @@
 
 # 2024
 
+## 22 February 2024
+- Fixed double "festival" in eulogy.
+
 ## 20 February 2024
 - Adding ciders
 
