@@ -8,6 +8,7 @@
 - Fixed double "festival" in eulogy.
 - Sorted headline sponsors, pending Ridgeway/Simon.
 - Sorted "Kindly sponsored by..." beer sponsors apart from two not added yet.
+- Updated images.
 
 ## 20 February 2024
 - Adding ciders
