@@ -6,6 +6,7 @@
 
 ## 23 February 2024
 - Corrected Dark and Seedy abv.
+- Added Ridgeway sponsor.
 
 ## 22 February 2024
 - Fixed double "festival" in eulogy.
