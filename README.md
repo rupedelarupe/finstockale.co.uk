@@ -10,6 +10,7 @@
 - Corrected order following Dark and Seedy addition.
 - Added missing (R&C) keg.
 - Added cask ales.
+- Added info to R&C keg beers.
 
 ## 22 February 2024
 - Fixed double "festival" in eulogy.
