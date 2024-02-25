@@ -4,6 +4,9 @@
 
 # 2024
 
+## 23 February 2024
+- Corrected Dark and Seedy abv.
+
 ## 22 February 2024
 - Fixed double "festival" in eulogy.
 - Sorted headline sponsors, pending Ridgeway/Simon.
