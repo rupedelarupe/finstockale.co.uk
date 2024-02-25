@@ -11,6 +11,7 @@
 - Added missing (R&C) keg.
 - Added cask ales.
 - Added info to R&C keg beers.
+- Corrected XT 17 style.
 
 ## 22 February 2024
 - Fixed double "festival" in eulogy.
