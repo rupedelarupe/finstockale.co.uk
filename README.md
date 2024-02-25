@@ -8,6 +8,7 @@
 - Corrected Dark and Seedy abv.
 - Added Ridgeway sponsor.
 - Corrected order following Dark and Seedy addition.
+- Added missing (R&C) keg.
 
 ## 22 February 2024
 - Fixed double "festival" in eulogy.
