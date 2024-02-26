@@ -4,7 +4,10 @@
 
 # 2024
 
-## 23 February 2024
+## 26 February 2024
+- Added details of Duet #18
+
+## 25 February 2024
 - Corrected Dark and Seedy abv.
 - Added Ridgeway sponsor.
 - Corrected order following Dark and Seedy addition.
