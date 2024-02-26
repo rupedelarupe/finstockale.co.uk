@@ -6,6 +6,8 @@
 
 ## 26 February 2024
 - Added details of Duet #18
+- Amended Right to Roam abv
+- Switched Burnthouse Coffee Porter image to match abv.
 
 ## 25 February 2024
 - Corrected Dark and Seedy abv.
