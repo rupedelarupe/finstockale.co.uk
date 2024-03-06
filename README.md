@@ -7,6 +7,13 @@
 ## 06 March 2024
 - Corrected seshy back gluten free.
 - Updated black ice vegan.
+- Non-league nuts vegan.
+- Wonky abv updated.
+- Cosmic shake lactose.
+- Dest vegan.
+- Burnthouse coffee vegan.
+- Big coat vegan.
+- Another crazy afternoon vegan.
 
 ## 26 February 2024
 - Added details of Duet #18
