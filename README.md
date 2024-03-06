@@ -14,6 +14,7 @@
 - Burnthouse coffee vegan.
 - Big coat vegan.
 - Another crazy afternoon vegan.
+- Duet 18 GF.
 
 ## 26 February 2024
 - Added details of Duet #18
