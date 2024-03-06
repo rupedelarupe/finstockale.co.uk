@@ -6,6 +6,7 @@
 
 ## 06 March 2024
 - Corrected seshy back gluten free.
+- Updated black ice vegan.
 
 ## 26 February 2024
 - Added details of Duet #18
