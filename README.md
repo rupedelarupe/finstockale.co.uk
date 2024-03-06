@@ -4,6 +4,9 @@
 
 # 2024
 
+## 06 March 2024
+- Corrected seshy back gluten free.
+
 ## 26 February 2024
 - Added details of Duet #18
 - Amended Right to Roam abv
