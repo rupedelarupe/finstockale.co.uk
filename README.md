@@ -6,6 +6,7 @@
 
 ## 01 June 2024
 - Added holding text re beer festivals for festival season.
+- Added holding text for food. 
 
 ## 11 February 2024
 - Amended for "holding" site until later in the year/after winter ale.
