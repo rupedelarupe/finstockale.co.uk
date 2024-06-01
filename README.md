@@ -4,6 +4,9 @@
 
 # 2024
 
+## 01 June 2024
+- Added holding text re beer festivals for festival season.
+
 ## 11 February 2024
 - Amended for "holding" site until later in the year/after winter ale.
 
