@@ -4,6 +4,9 @@
 
 # 2024
 
+## 01 June 2024
+- Hastily added holding changes for festivals from dev branch but not merged as on mobile. Need to do this. 
+
 ## 11 February 2024
 - Amended for "holding" site until later in the year/after winter ale.
 
