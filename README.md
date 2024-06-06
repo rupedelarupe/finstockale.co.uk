@@ -4,6 +4,9 @@
 
 # 2024
 
+## 06 June 2024
+- Updated X9 bus timetable link.
+
 ## 01 June 2024
 - Added holding text re beer festivals for festival season.
 - Added holding text for food.
