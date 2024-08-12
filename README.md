@@ -4,6 +4,11 @@
 
 # 2024
 
+## 12 August 2024
+- Removed note re need for update of cider introduction.
+- Removed Plough runner service.
+- Amended reference to 'fourteen' gins.
+
 ## 04 August 2024
 - Added ciders.
 
