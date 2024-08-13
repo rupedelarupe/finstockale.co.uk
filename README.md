@@ -4,6 +4,9 @@
 
 # 2024
 
+## 13 August 2024
+- Added first lot of beers.
+
 ## 12 August 2024
 - Removed note re need for update of cider introduction.
 - Removed Plough runner service.
