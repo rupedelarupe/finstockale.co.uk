@@ -6,6 +6,7 @@
 
 ## 13 August 2024
 - Added first lot of beers.
+- Re-enabled primary sponsors.
 
 ## 12 August 2024
 - Removed note re need for update of cider introduction.
