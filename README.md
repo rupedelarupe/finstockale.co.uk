@@ -4,6 +4,9 @@
 
 # 2024
 
+## 14 August 2024
+- Added Another Ripple & Trendy.
+
 ## 13 August 2024
 - Added first lot of beers.
 - Re-enabled primary sponsors.
