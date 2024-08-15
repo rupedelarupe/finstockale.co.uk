@@ -4,6 +4,9 @@
 
 # 2024
 
+## 15 August 2024
+- Added Lilly's Raspberry Lemonade.
+
 ## 14 August 2024
 - Added Another Ripple & Trendy.
 
