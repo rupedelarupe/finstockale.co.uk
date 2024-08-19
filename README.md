@@ -9,6 +9,7 @@
 - Updated keg beers.
 - Re-enabled sponsorship nav link.
 - Re-enabled and updated food, disabled food in 'About' section.
+- Removed temporary 'About' section now that the beers are populated.
 
 ## 15 August 2024
 - Added Lilly's Raspberry Lemonade.
