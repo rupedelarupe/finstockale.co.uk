@@ -14,6 +14,7 @@
 - Split out cask and keg.
 - Amended food entries to make reference to The Plough.
     - Fixed this item's link to Sartorelli's menu.
+- Added Arbor Shambala.
 
 ## 15 August 2024
 - Added Lilly's Raspberry Lemonade.
