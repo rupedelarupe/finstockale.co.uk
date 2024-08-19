@@ -11,6 +11,7 @@
 - Re-enabled and updated food, disabled food in 'About' section.
 - Removed temporary 'About' section now that the beers are populated.
 - Updated sponsorship.
+- Split out cask and keg.
 
 ## 15 August 2024
 - Added Lilly's Raspberry Lemonade.
