@@ -7,6 +7,8 @@
 ## 19 August 2024
 - Updated cask beers.
 - Updated keg beers.
+- Re-enabled sponsorship nav link.
+- Re-enabled and updated food.
 
 ## 15 August 2024
 - Added Lilly's Raspberry Lemonade.
