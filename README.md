@@ -4,6 +4,9 @@
 
 # 2024
 
+## 19 August 2024
+- Updated cask beers.
+
 ## 15 August 2024
 - Added Lilly's Raspberry Lemonade.
 
