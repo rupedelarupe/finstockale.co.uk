@@ -9,6 +9,7 @@
 - Added remaining cask beers and amended layout.
 - Made corrections to some details.
 - Amended cider abvs e.g. 5% -> 5.0%
+- Amended heavy cask to £5.00.
 
 ## 19 August 2024
 - Updated cask beers.
