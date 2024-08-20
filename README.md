@@ -4,6 +4,44 @@
 
 # 2024
 
+## 20 August 2024
+- Added remaining keg beers (NB New Bristol Brewery still tbc) and amended layout.
+- Added remaining cask beers and amended layout.
+- Made corrections to some details.
+- Amended cider abvs e.g. 5% -> 5.0%
+- Amended heavy cask to £5.00.
+- Replaced lagerbier image.
+
+## 19 August 2024
+- Updated cask beers.
+- Updated keg beers.
+- Re-enabled sponsorship nav link.
+- Re-enabled and updated food, disabled food in 'About' section.
+- Removed temporary 'About' section now that the beers are populated.
+- Updated sponsorship.
+- Split out cask and keg.
+- Amended food entries to make reference to The Plough.
+    - Fixed this item's link to Sartorelli's menu.
+- Added Arbor Shambala.
+
+## 15 August 2024
+- Added Lilly's Raspberry Lemonade.
+
+## 14 August 2024
+- Added Another Ripple & Trendy.
+
+## 13 August 2024
+- Added first lot of beers.
+- Re-enabled primary sponsors.
+
+## 12 August 2024
+- Removed note re need for update of cider introduction.
+- Removed Plough runner service.
+- Amended reference to 'fourteen' gins.
+
+## 04 August 2024
+- Added ciders.
+
 ## 06 June 2024
 - Updated X9 bus timetable link.
 
