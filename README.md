@@ -4,6 +4,12 @@
 
 # 2024
 
+## 20 August 2024
+- Added remaining keg beers (NB New Bristol Brewery still tbc) and amended layout.
+- Added remaining cask beers and amended layout.
+- Made corrections to some details.
+- Amended cider abvs e.g. 5% -> 5.0%
+
 ## 19 August 2024
 - Updated cask beers.
 - Updated keg beers.
