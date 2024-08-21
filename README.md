@@ -4,6 +4,10 @@
 
 # 2024
 
+## 21 August 2024
+- Updated NBB beer (Fantazia).
+- Added entry.
+
 ## 20 August 2024
 - Added remaining keg beers (NB New Bristol Brewery still tbc) and amended layout.
 - Added remaining cask beers and amended layout.
