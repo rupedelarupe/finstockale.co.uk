@@ -4,6 +4,9 @@
 
 # 2024
 
+## 24 August 2024
+- Corrected LB501 gf/vg.
+
 ## 21 August 2024
 - Updated NBB beer (Fantazia).
 - Added entry.
