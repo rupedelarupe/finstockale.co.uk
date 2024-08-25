@@ -4,6 +4,9 @@
 
 # 2024
 
+## 25 August 2024
+- Fixed a couple of typos in beer/cider descriptions.
+
 ## 24 August 2024
 - Corrected LB501 gf/vg.
 
