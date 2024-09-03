@@ -4,6 +4,9 @@
 
 # 2024
 
+## 03 September 2024
+- Amended Howden raffle double reference.
+
 ## 25 August 2024
 - Fixed a couple of typos in beer/cider descriptions.
 
