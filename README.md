@@ -4,6 +4,11 @@
 
 # 2024
 
+## 04 September 2024
+- Amended Shambala to "removed" state following news from Arbor.
+- Changed approach and removed Shambala completely as it looked weird.
+- Added additional/replacement Arbor beers.
+
 ## 03 September 2024
 - Amended Howden raffle double reference.
 
