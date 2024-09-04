@@ -4,6 +4,9 @@
 
 # 2024
 
+## 04 September 2024
+- Amended Shambala to "removed" state following news from Arbor.
+
 ## 03 September 2024
 - Amended Howden raffle double reference.
 
